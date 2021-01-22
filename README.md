@@ -11,38 +11,38 @@ LinkedIn learning Python and DS courses
 
 2. Python Essential training
 
-	1. Welcome https://t.me/c/1163433689/27  
-    2. Language overview https://t.me/c/1163433689/31 
-    3. Types and values https://t.me/c/1163433689/42 
-    4. Conditionals https://t.me/c/1163433689/48 
-    5. Operators https://t.me/c/1163433689/51  
-    6. Loops https://t.me/c/1163433689/56 
-    7. Functions https://t.me/c/1163433689/60 
-    8. Structured data https://t.me/c/1163433689/67  
-    9. Exceptions https://t.me/c/1163433689/79 
-    10. String objects https://t.me/c/1163433689/81 
-    11. File I/O https://t.me/c/1163433689/85 
-    12. Build-in Functions https://t.me/c/1163433689/89 
-    13. Modules https://t.me/c/1163433689/93 
-    14. Databases https://t.me/c/1163433689/95 
+1. Welcome https://t.me/c/1163433689/27  
+2. Language overview https://t.me/c/1163433689/31 
+3. Types and values https://t.me/c/1163433689/42 
+4. Conditionals https://t.me/c/1163433689/48 
+5. Operators https://t.me/c/1163433689/51  
+6. Loops https://t.me/c/1163433689/56 
+7. Functions https://t.me/c/1163433689/60 
+8. Structured data https://t.me/c/1163433689/67  
+9. Exceptions https://t.me/c/1163433689/79 
+10. String objects https://t.me/c/1163433689/81 
+11. File I/O https://t.me/c/1163433689/85 
+12. Build-in Functions https://t.me/c/1163433689/89 
+13. Modules https://t.me/c/1163433689/93 
+14. Databases https://t.me/c/1163433689/95 
 
 3. Learning the Python3 Standard library https://t.me/c/1163433689/101 
 
 
 4. Programming Foundations: Real-World Examples https://t.me/c/1163433689/134
 
-    1.  Functions  https://t.me/c/1163433689/139 
-    2. Objects https://t.me/c/1163433689/144 
-    3. Class Inheritance https://t.me/c/1163433689/148 
-    4. Modules and Packages https://t.me/c/1163433689/150 
-    5. Lists and Tuples https://t.me/c/1163433689/152 
-    6. Queues and Stacks https://t.me/c/1163433689/155 
-    7. Sets https://t.me/c/1163433689/157 
-    8. Dictionaries https://t.me/c/1163433689/160 
-    9. Conditional Execution https://t.me/c/1163433689/163 
-    10. Loops https://t.me/c/1163433689/165 
-    11. Error Handling https://t.me/c/1163433689/168 
-    12. Polling and Event-Driven https://t.me/c/1163433689/171 
+1.  Functions  https://t.me/c/1163433689/139 
+2. Objects https://t.me/c/1163433689/144 
+3. Class Inheritance https://t.me/c/1163433689/148 
+4. Modules and Packages https://t.me/c/1163433689/150 
+5. Lists and Tuples https://t.me/c/1163433689/152 
+6. Queues and Stacks https://t.me/c/1163433689/155 
+7. Sets https://t.me/c/1163433689/157 
+8. Dictionaries https://t.me/c/1163433689/160 
+9. Conditional Execution https://t.me/c/1163433689/163 
+10. Loops https://t.me/c/1163433689/165 
+11. Error Handling https://t.me/c/1163433689/168 
+12. Polling and Event-Driven https://t.me/c/1163433689/171 
 
 5.  Code clinic Python https://t.me/c/1163433689/175 
 
