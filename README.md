@@ -125,13 +125,13 @@ LinkedIn learning Python and DS courses
 	6.  Challenge problems https://t.me/c/1163433689/692 
 
 15.  Python Data Analysis https://t.me/c/1163433689/701 
-	1.  Installation and Setup https://t.me/c/1163433689/707 
-	2.  Data Structures in Pure Python https://t.me/c/1163433689/714 
-	3.  Wordplay: Anagrams and Palindromes https://t.me/c/1163433689/726 
-	4.  Arrays with NumPy https://t.me/c/1163433689/737 
-	5.  Use Case: Weather Data https://t.me/c/1163433689/747 
-	6.  pandas https://t.me/c/1163433689/761 
-	7.  Use Case: Baby Names https://t.me/c/1163433689/769 
+		1.  Installation and Setup https://t.me/c/1163433689/707 
+		2.  Data Structures in Pure Python https://t.me/c/1163433689/714 
+		3.  Wordplay: Anagrams and Palindromes https://t.me/c/1163433689/726 
+		4.  Arrays with NumPy https://t.me/c/1163433689/737 
+		5.  Use Case: Weather Data https://t.me/c/1163433689/747 
+		6.  pandas https://t.me/c/1163433689/761 
+		7.  Use Case: Baby Names https://t.me/c/1163433689/769 
 
 
 16. Docker for data scientists https://t.me/c/1163433689/783 
